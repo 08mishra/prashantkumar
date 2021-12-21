@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/prashantkumar/static/css/main.be90b9f7.css",
-    "main.js": "/prashantkumar/static/js/main.8e2a617f.js",
+    "main.css": "/prashantkumar/static/css/main.99585d39.css",
+    "main.js": "/prashantkumar/static/js/main.d4f3272b.js",
     "static/js/787.bc5f91e9.chunk.js": "/prashantkumar/static/js/787.bc5f91e9.chunk.js",
     "static/media/prashantlogo.png": "/prashantkumar/static/media/prashantlogo.e90699905f24ea642ac6.png",
     "static/media/PRASHANTKUMAR.pdf": "/prashantkumar/static/media/PRASHANTKUMAR.467369c6e463c711bf7b.pdf",
     "static/media/Prashant.jpg": "/prashantkumar/static/media/Prashant.226d7dac9f5b7af7be3e.jpg",
     "index.html": "/prashantkumar/index.html",
-    "main.be90b9f7.css.map": "/prashantkumar/static/css/main.be90b9f7.css.map",
-    "main.8e2a617f.js.map": "/prashantkumar/static/js/main.8e2a617f.js.map",
+    "main.99585d39.css.map": "/prashantkumar/static/css/main.99585d39.css.map",
+    "main.d4f3272b.js.map": "/prashantkumar/static/js/main.d4f3272b.js.map",
     "787.bc5f91e9.chunk.js.map": "/prashantkumar/static/js/787.bc5f91e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be90b9f7.css",
-    "static/js/main.8e2a617f.js"
+    "static/css/main.99585d39.css",
+    "static/js/main.d4f3272b.js"
   ]
 }
